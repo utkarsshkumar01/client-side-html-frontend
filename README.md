@@ -1,1 +1,1 @@
-# html projects with basics
+# html projects with basics from scratch
