@@ -1,1 +1,1 @@
-# html projects with basics from scratch
+HTML and CSS based DentyTech client side frontend
